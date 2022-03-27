@@ -1,0 +1,26 @@
+{
+    "description": "No description provided.", 
+    "license": "other-open", 
+    "title": "LauraRincon/nav_node: First release", 
+    "version": "v0.0.0", 
+    "upload_type": "software", 
+    "publication_date": "2022-03-27", 
+    "creators": [
+        {
+            "name": "LauraRincon"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/LauraRincon/nav_node/tree/v0.0.0", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.6387872", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
